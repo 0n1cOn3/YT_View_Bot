@@ -1,37 +1,30 @@
+# YT_View_Bot
+
 [![CodeFactor](https://www.codefactor.io/repository/github/dedshit/yt_view_bot/badge)](https://www.codefactor.io/repository/github/dedshit/yt_view_bot)
-# YT_View_Bot v1.0.2
+| Version |           |
+| ------- | ----------|
+| v1.0.2  |     ✅    |
+| v1.0.1  |     ❌    |
 
-No Proxies involved lol
-
-           There is no way of getting banned lol☠
-
-           better give credits to your Own ISP for providing Dynamic IP
 
 # Requirement
-Python3
-
-# Usage
-python3 viewbot_1.py
-
-# Modules used
-● requests
-
-● random
-
-● bs4
-
-● html5lib
+Python3, pip3
 
 # Installation
 
  easy_install requests bs4 html5lib
      (or)   
-     pip install (" ")
+     pip3 install (" ")
+
+# Usage
+
+python3 viewbot_1.py
+
  
 # Contact
- Ragava DK ~ wa.me/919080876932        《[Subscribe to All new Gaming Channel](https://www.youtube.com/channel/UCSiAsA3JxLZoFx63UTgTS3A?sub_confirmation=1)》
-
- Dedshit(@°) ~ wa.me/918428425154
+ [Ragava DK](https://wa.me/919080876932)
+ 
+ [Dedshit(@°)](https://wa.me/918428425154)
  
 # Note
   Discontinued support for mobile link
@@ -41,7 +34,3 @@ python3 viewbot_1.py
       https://www.youtube.com/watch?v=6Af6b_wyiwI ✅
       
          
-| Version |           |
-| ------- | ----------|
-| v1.0.2  |     ✅    |
-| v1.0.1  |     ❌    |
